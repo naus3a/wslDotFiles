@@ -1,0 +1,7 @@
+# blacklist everything by default
+/*
+/bin/deployEspn.sh
+# whitelist
+!.gitignore
+!etc/
+!bin/
