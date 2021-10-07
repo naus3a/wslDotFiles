@@ -115,3 +115,7 @@ fi
 
 
 . "$HOME/.cargo/env"
+
+# Editor
+export VISUAL=vim
+export EDITOR="$VISUAL"
